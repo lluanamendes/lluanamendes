@@ -9,7 +9,6 @@ No momento busco aprender novas tecnologias e aprofundar minhas habilidades em p
 - 📚 Atualmente estou aprendendo linguagens de programação e pretendo dominar C, C++, Java e Python, com foco em trabalhar com sistemas e automação.
 - 💬 Dedico-me a aprofundar os meus conhecimentos na área para dominar as principais linguagens de programação, com o objetivo de eventualmente integrar uma equipe onde possa contribuir ativamente.
 
-
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,3 +16,4 @@ No momento busco aprender novas tecnologias e aprofundar minhas habilidades em p
 
 [![Luana Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanamendes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluanamendes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="icone" height="200" src="https://github.com/user-attachments/assets/9075ca92-d93e-4a2c-a131-6d8dfe42fd71">
